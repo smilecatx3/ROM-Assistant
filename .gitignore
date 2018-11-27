@@ -1,0 +1,10 @@
+*.code-workspace
+
+build/
+out/
+
+# non-project files
+.gradle/
+.vscode/
+.idea/
+*.iml

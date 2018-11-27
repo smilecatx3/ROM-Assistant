@@ -1,0 +1,5 @@
+{
+  "notify": [
+    { "day": "MONDAY", "time": "12:34:56", "message": "SAMPLE" }
+  ]
+}
